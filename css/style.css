@@ -1,0 +1,43 @@
+body {
+    background-color: #efeee7;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #d741a7 ;
+}
+
+h1{
+    color: #eee;
+    font-size: 28px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+#bio-image {
+    width: 200px;
+}
+
+#main-bio {
+    width: 70%;
+    line-height: 1.5;
+}
+
+#contact-info {
+    width: 30%;
+
+}
+
+a {
+    color: #6b2571;
+}
+
+.image{
+    border: 3px dotted black;
+    
+}
